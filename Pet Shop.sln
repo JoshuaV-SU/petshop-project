@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pet Shop", "WindowsApplication3\Pet Shop.vbproj", "{E0E53EFF-032C-4702-A3D2-440420DE8E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E53EFF-032C-4702-A3D2-440420DE8E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E53EFF-032C-4702-A3D2-440420DE8E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E53EFF-032C-4702-A3D2-440420DE8E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E53EFF-032C-4702-A3D2-440420DE8E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
